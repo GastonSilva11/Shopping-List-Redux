@@ -1,0 +1,59 @@
+#root {
+  margin: 0 auto;
+}
+
+body {
+  background-color: rgb(214, 214, 214);
+}
+
+.title {
+  margin-bottom: 4rem;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.mainContainer {
+  background-color: white;
+  border-radius: 11px;
+}
+
+.container {
+  align-items: center;
+}
+
+.productContainer {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  justify-content: space-between;
+}
+
+.imgBasura {
+  width: 1.5rem;
+  margin-right: 0;
+  cursor: pointer;
+}
+
+.iconB {
+  cursor: pointer;
+}
+
+.checkBox {
+  border: 1px solid black;
+}
+
+.form-control {
+  border: 1px solid rgb(169, 169, 252);
+  border-radius: 0px;
+}
+
+.inputAdd {
+  border-radius: 0px;
+}
+
+.btnAdd {
+  border-radius: 0px;
+  border-color: rgb(169, 169, 252);
+}
